@@ -27,4 +27,4 @@ Ativar Virtual Environment:
 ```Poetry shell```
 
 Rodar a aplicação com o comando:   
-```Python swapi-etl.py```
+```python swapi-etl.py```
