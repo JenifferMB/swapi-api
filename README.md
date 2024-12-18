@@ -6,7 +6,9 @@ Ingestão de dados da [Swapi API](https://swapi.py4e.com).
 
 2- Padronização das strings para lower case e remoção dos caracteres especiais. 
 
-3- Organização dos repositórios> Raw - Arquivos referente as páginas, no formato csv, identificados em cada página; Work - Arquivos após o processamento, no formato csv. 
+3- Organização das pastas:   
+Raw - Arquivos identificados em cada página, no formato csv.  
+Work - Arquivos após o processamento, no formato csv.  
 
 ## Dependências
 Esse projeto utilza Poetry para a gestão de dependências e a execução do mesmo.
